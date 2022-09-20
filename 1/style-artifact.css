@@ -48,8 +48,13 @@ img {
 }
 
 
+
 .hoverimage {
   display: none;
+}
+
+.hover2image {
+width: 800px;
 }
 
 .hoverimage.show {
